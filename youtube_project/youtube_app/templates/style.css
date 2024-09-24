@@ -1,0 +1,21 @@
+
+        .video-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+        .video-card {
+            margin: 20px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: center;
+            width: 300px;
+        }
+        .thumbnail {
+            max-width: 100%;
+            height: auto;
+        }
+        
+        .select-div{
+            border: 1px solid #000;
+        }
